@@ -27,7 +27,7 @@
     "test": "mocha test/test.js"
   },
   "dependencies": {
-    "cheerio": "0.22.x"
+    "cheerio": "1.x"
   },
   "devDependencies": {
     "mocha": "3.1.x"
